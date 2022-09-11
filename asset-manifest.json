@@ -1,15 +1,15 @@
 {
-  "main.css": "/TextUtlis-React/static/css/main.4332e849.chunk.css",
-  "main.js": "/TextUtlis-React/static/js/main.3f0330f3.chunk.js",
-  "main.js.map": "/TextUtlis-React/static/js/main.3f0330f3.chunk.js.map",
-  "static/js/1.03ae7ea8.chunk.js": "/TextUtlis-React/static/js/1.03ae7ea8.chunk.js",
-  "static/js/1.03ae7ea8.chunk.js.map": "/TextUtlis-React/static/js/1.03ae7ea8.chunk.js.map",
-  "static/js/2.946d8365.chunk.js": "/TextUtlis-React/static/js/2.946d8365.chunk.js",
-  "static/js/2.946d8365.chunk.js.map": "/TextUtlis-React/static/js/2.946d8365.chunk.js.map",
-  "runtime~main.js": "/TextUtlis-React/static/js/runtime~main.f707c196.js",
-  "runtime~main.js.map": "/TextUtlis-React/static/js/runtime~main.f707c196.js.map",
-  "static/css/main.4332e849.chunk.css.map": "/TextUtlis-React/static/css/main.4332e849.chunk.css.map",
-  "index.html": "/TextUtlis-React/index.html",
-  "precache-manifest.075557acdca79bd27ee15ada98a05720.js": "/TextUtlis-React/precache-manifest.075557acdca79bd27ee15ada98a05720.js",
-  "service-worker.js": "/TextUtlis-React/service-worker.js"
+  "main.css": "/Project1/static/css/main.39ed18dc.chunk.css",
+  "main.js": "/Project1/static/js/main.5f6d714b.chunk.js",
+  "main.js.map": "/Project1/static/js/main.5f6d714b.chunk.js.map",
+  "runtime~main.js": "/Project1/static/js/runtime~main.209fcbe4.js",
+  "runtime~main.js.map": "/Project1/static/js/runtime~main.209fcbe4.js.map",
+  "static/js/2.265c2a91.chunk.js": "/Project1/static/js/2.265c2a91.chunk.js",
+  "static/js/2.265c2a91.chunk.js.map": "/Project1/static/js/2.265c2a91.chunk.js.map",
+  "static/js/3.7fa365a8.chunk.js": "/Project1/static/js/3.7fa365a8.chunk.js",
+  "static/js/3.7fa365a8.chunk.js.map": "/Project1/static/js/3.7fa365a8.chunk.js.map",
+  "index.html": "/Project1/index.html",
+  "precache-manifest.4dcbb9c3b036fc30f7d8b9aa06aadb84.js": "/Project1/precache-manifest.4dcbb9c3b036fc30f7d8b9aa06aadb84.js",
+  "service-worker.js": "/Project1/service-worker.js",
+  "static/css/main.39ed18dc.chunk.css.map": "/Project1/static/css/main.39ed18dc.chunk.css.map"
 }
